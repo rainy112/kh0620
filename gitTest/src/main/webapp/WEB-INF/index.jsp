@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>무요</h1>
+	<h1>무요2</h1>
 </body>
 </html>
